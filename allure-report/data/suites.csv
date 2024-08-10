@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1994","Residential Onboarding","Suite","Fri Aug 09 18:12:50 IST 2024","passed","Fri Aug 09 18:12:52 IST 2024","com.automation.prepaidResidential.tests.TC_Account_Onboarding","Test","com.automation.prepaidResidential.tests.TC_Account_Onboarding","onboarding"
