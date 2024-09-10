@@ -6,6 +6,9 @@ public enum ConfigProperties {
     CRMUSERNAME,
     CRMPASSWORD,
     CRMMAIL,
-    BROWSER;
+    BROWSER,
+
+    EXECUTION;
+
 
 }

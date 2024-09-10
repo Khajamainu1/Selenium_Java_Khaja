@@ -16,13 +16,7 @@ public AccountListViewPage ()
 @FindBy(id="Accounts_listView_basicAction_LBL_ADD_RECORD")
     WebElement btn_addAccount;
 
-@FindBy(xpath="//a[text()='Cart']")
-WebElement btn_addCart;
 
-    public void clickAddCart()
-    {
-        click(btn_addCart, "Add Cart");
-    }
 
 public void clickAddAccount()
 {

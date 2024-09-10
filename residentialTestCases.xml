@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
     <listeners>
-        <listener class-name="com.automation.listeners.AllureListners" />
+        <listener class-name="com.automation.listeners.ExtentReportListner" />
     </listeners>
     <test name="Test">
 <!--    <test thread-count="1" name="Test">-->
